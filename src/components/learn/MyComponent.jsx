@@ -1,8 +1,18 @@
+import './style.css'
+
 const MyComponent = () => {
     return (
-        <div>
-            TRAN NHU TRI
-        </div>
+        <>
+            <div>
+
+            </div>
+            <div className='child'
+                style={
+                    { borderRadius: "2px" }
+                }>
+                TRAN NHU TRI
+            </div>
+        </>
     )
 }
 
