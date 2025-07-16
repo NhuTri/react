@@ -10,7 +10,7 @@ const MyComponent = () => {
                 style={
                     { borderRadius: "2px" }
                 }>
-                TRAN NHU TRI
+                TRAN NHU
             </div>
         </>
     )
